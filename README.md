@@ -1,7 +1,6 @@
 # Hello World ! Je suis Yannis Obert 👋
 
-<video crossorigin="anonymous" draggable="true" class="giphy-video" width="776" height="438" autoplay="" playsinline="" src="https://media2.giphy.com/media/RJRLHkOnqdYHBJtDrq/giphy480p.mp4?cid=ecf05e47e9w06xdphay8s0fm46q5ltzqatasp8x9a2912eb8&amp;rid=giphy480p.mp4&amp;ct=v"></video>
-
+<div><video alt="Wake Up Coffee GIF by Starbucks" src="https://media0.giphy.com/media/Zei8AMzoPUTQGSPK02/giphy.mp4?cid=ecf05e47n9995nyhxcsgto9r2ci3zl3ls8877ua91z8422vz&amp;rid=giphy.mp4&amp;ct=g" poster="https://media0.giphy.com/media/Zei8AMzoPUTQGSPK02/giphy_s.gif?cid=ecf05e47n9995nyhxcsgto9r2ci3zl3ls8877ua91z8422vz&amp;rid=giphy_s.gif&amp;ct=g" autoplay="" loop="" playsinline="" style="width: 500px; height: 323.958px; left: 0px; top: 0px;"></video></div>
 - 🔭 Je suis actuellement étudiant dans le développement web à l'IIM
 - 🌱 Je suis actuellement entrain d'apprendre le Vue.JS
 - 💬 N'hésitez pas à me contacter pour des projets !
