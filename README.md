@@ -1,6 +1,6 @@
 # Hello World ! Je suis Yannis Obert 👋
 
-
+<video crossorigin="anonymous" draggable="true" class="giphy-video" width="776" height="438" autoplay="" playsinline="" src="https://media2.giphy.com/media/RJRLHkOnqdYHBJtDrq/giphy480p.mp4?cid=ecf05e47e9w06xdphay8s0fm46q5ltzqatasp8x9a2912eb8&amp;rid=giphy480p.mp4&amp;ct=v"></video>
 
 - 🔭 Je suis actuellement étudiant dans le développement web à l'IIM
 - 🌱 Je suis actuellement entrain d'apprendre le Vue.JS
