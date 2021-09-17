@@ -9,6 +9,13 @@
 - 📫 Contacter moi via cette adresse mail : obertyannis@gmail.com
 - ⚡ Fun fact : j'ai remplacé mon sang par du café 😉
 
+
+## I am...
+
+<img src="https://media1.giphy.com/media/3XsnjjsjdmXRwHTclM/giphy.gif?cid=ecf05e47lshgjdmzyhwo95x4c1tkz5axis16kjrgfwdwrznd&amp;rid=giphy.gif&amp;ct=g" alt="Fun Eat GIF by Denyse®" style="width: 500px; height: 500px; left: 0px; top: 0px; opacity: 0;"><img src="https://media3.giphy.com/media/jUR38eW3tDNZ1lyiTL/giphy.gif?cid=ecf05e47w5icjy8ya0ma93yjmkd1qas0wzftbliicso19pt5&amp;rid=giphy.gif&amp;ct=g" alt="Lover Milan GIF by wtFOCK" style="width: 500px; height: 281.25px; left: 0px; top: 0px; opacity: 0;"><div><video alt="Happy Despicable Me GIF" src="https://media3.giphy.com/media/yq1YQCQoaEny8/giphy.mp4?cid=ecf05e47hv7vod6n4d65lt74w27l1oz4ka2oj6rxhncakf5t&amp;rid=giphy.mp4&amp;ct=g" poster="https://media3.giphy.com/media/yq1YQCQoaEny8/giphy_s.gif?cid=ecf05e47hv7vod6n4d65lt74w27l1oz4ka2oj6rxhncakf5t&amp;rid=giphy_s.gif&amp;ct=g" autoplay="" loop="" playsinline="" style="width: 500px; height: 275.51px; left: 0px; top: 0px;"></video></div>
+
+
+
 ### Ajoutez-moi sur Linkedin :
 
 <a href="https://www.linkedin.com/in/yannis-obert-64226b191/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yannisobert" height="30" width="40" style="max-width: 100%;"></a>
