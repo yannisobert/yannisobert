@@ -12,7 +12,7 @@
 
 ## I am...
 
-<img src="https://media1.giphy.com/media/3XsnjjsjdmXRwHTclM/giphy.gif?cid=ecf05e47lshgjdmzyhwo95x4c1tkz5axis16kjrgfwdwrznd&amp;rid=giphy.gif&amp;ct=g" alt="Fun Eat GIF by Denyse®" style="width: 300px; height: 300px; left: 0px; top: 0px; opacity: 0;"><img src="https://media3.giphy.com/media/jUR38eW3tDNZ1lyiTL/giphy.gif?cid=ecf05e47w5icjy8ya0ma93yjmkd1qas0wzftbliicso19pt5&amp;rid=giphy.gif&amp;ct=g" alt="Lover Milan GIF by wtFOCK" style="width: 300px; height: 300px; left: 0px; top: 0px; opacity: 0;"><div><video alt="Happy Despicable Me GIF" src="https://media3.giphy.com/media/yq1YQCQoaEny8/giphy.mp4?cid=ecf05e47hv7vod6n4d65lt74w27l1oz4ka2oj6rxhncakf5t&amp;rid=giphy.mp4&amp;ct=g" poster="https://media3.giphy.com/media/yq1YQCQoaEny8/giphy_s.gif?cid=ecf05e47hv7vod6n4d65lt74w27l1oz4ka2oj6rxhncakf5t&amp;rid=giphy_s.gif&amp;ct=g" autoplay="" loop="" playsinline="" style="width: 500px; height: 275.51px; left: 0px; top: 0px;"></video></div>
+<img src="https://media1.giphy.com/media/3XsnjjsjdmXRwHTclM/giphy.gif?cid=ecf05e47lshgjdmzyhwo95x4c1tkz5axis16kjrgfwdwrznd&amp;rid=giphy.gif&amp;ct=g" alt="Fun Eat GIF by Denyse®" style="width: 300px; height: 300px; left: 0px; top: 0px; opacity: 0;"><img src="https://media3.giphy.com/media/jUR38eW3tDNZ1lyiTL/giphy.gif?cid=ecf05e47w5icjy8ya0ma93yjmkd1qas0wzftbliicso19pt5&amp;rid=giphy.gif&amp;ct=g" alt="Lover Milan GIF by wtFOCK" style="width: 300px; height: 300px; left: 0px; top: 0px; opacity: 0;"><img src="https://media3.giphy.com/media/yq1YQCQoaEny8/giphy.gif?cid=ecf05e47hv7vod6n4d65lt74w27l1oz4ka2oj6rxhncakf5t&amp;rid=giphy.gif&amp;ct=g" alt="Happy Despicable Me GIF" style="width: 300px; height: 200px; left: 0px; top: 0px; opacity: 0;">
 
 
 
