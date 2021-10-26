@@ -1,5 +1,5 @@
-#Yannis{
-  display : flex;
+#Yannis{<br>
+  display : flex;<br>
   }
 
 - 🔭 Je suis actuellement étudiant dans le développement web à l'IIM
