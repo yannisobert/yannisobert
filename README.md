@@ -1,7 +1,6 @@
-# Hello World ! I am Yannis Obert 👋
-
-
-<img src="https://media3.giphy.com/media/3oKIPqjfyrXlGHwvdK/giphy.gif?cid=ecf05e47zlm27egqi03hjmdx3xihhx15qprr16430jiz0bja&amp;rid=giphy.gif&amp;ct=g" alt="Happy Good Morning GIF by GIPHY Studios Originals" style="width: 500px; height: 333.333px; left: 0px; top: 0px; opacity: 0;">
+#Yannis{
+  display : flex;
+  }
 
 - 🔭 Je suis actuellement étudiant dans le développement web à l'IIM
 - 🌱 Je suis actuellement entrain d'apprendre le Vue.JS
