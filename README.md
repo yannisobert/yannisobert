@@ -1,5 +1,5 @@
-#Hello World !
-## Je suis Yannis OBERT et je suis développeur FullStack Junior !
+<h1>Hello World ! 🌎🌍🌏</h1>
+<h2> Je suis Yannis OBERT et je suis développeur FullStack Junior !</h2>
 
 - 🔭 Je suis actuellement en train de travailler sur un site de mise en relation entre tuteur et tutoré, j'y utilise VueJs, Vuetify et VueX.
 - 🌱 Actuellement entrain d'en apprendre toujours plus sur Symfony.
