@@ -1,6 +1,5 @@
 <h1>Hello World! 🌎🌍🌏</h1>
 
-<hr>
 
 ### Me?
 I am a student in web developpement, I will start my third year at the IIM in Coding & Digital Innovation axe.
@@ -10,14 +9,22 @@ I ♥️ Symfony!
 <hr>
 
 ### My Projects
-<li>Mai 2022:</li>
-<a href="https://github.com/pgrimaud/lametric-github-activity">PULV - LeoLearning</a>: Linking site between tutors and tutees for support courses
+
+<li>July 2022:</li>
+<a href="ihttps://github.com/yannisobert/rename-holidays-pictures">Photography - Rename Holidays Pictures</a>: A command to rename a folder of photos to .NEF
 
 <br>
 <br>
 
 <li>June 2022:</li>
 <a href="https://github.com/pgrimaud/lametric-github-activity">LaMetric - GitHub Activity</a>: App to follow your github activity on a LaMetric connected clock
+
+<br>
+<br>
+
+<li>Mai 2022:</li>
+<a href="https://github.com/pgrimaud/lametric-github-activity">PULV - LeoLearning</a>: Linking site between tutors and tutees for support courses
+
 
 <hr>
 
