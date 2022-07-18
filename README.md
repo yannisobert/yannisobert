@@ -11,7 +11,7 @@ I ♥️ Symfony!
 ### My Projects
 
 <li>July 2022:</li>
-<a href="ihttps://github.com/yannisobert/rename-holidays-pictures">Photography - Rename Holidays Pictures</a>: A command to rename a folder of photos to .NEF
+<a href="https://github.com/yannisobert/rename-holidays-pictures">Photography - Rename Holidays Pictures</a>: A command to rename a folder of photos to .NEF
 
 <br>
 <br>
